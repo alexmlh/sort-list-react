@@ -1,0 +1,39 @@
+.mockup {
+  width: 300px;
+  margin: auto;
+  background-color: antiquewhite;
+  padding: 1rem;
+  border: 2px grey solid;
+  border-radius: 10px;
+  text-align: center;
+}
+
+th,
+td {
+  width: 100px;
+  text-align: left;
+}
+
+input[type="checkbox"] {
+  margin: 1rem;
+}
+
+table {
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+th[colspan="2"] {
+  text-align: center;
+}
+
+th:nth-child(2) {
+  text-align: right;
+}
+
+tr:hover {
+  color: red;
+}

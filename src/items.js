@@ -1,0 +1,30 @@
+// items.js
+const itemsAll = [
+  { category: "Fruits", price: "$1", stocked: true, name: "Apple" },
+  { category: "Fruits", price: "$1", stocked: true, name: "Dragonfruit" },
+  { category: "Fruits", price: "$2", stocked: false, name: "Passionfruit" },
+  { category: "Fruits", price: "$3", stocked: true, name: "Banana" },
+  { category: "Fruits", price: "$4", stocked: false, name: "Mango" },
+  { category: "Fruits", price: "$2", stocked: true, name: "Strawberry" },
+  { category: "Fruits", price: "$5", stocked: true, name: "Blueberry" },
+  { category: "Fruits", price: "$2", stocked: true, name: "Pineapple" },
+  { category: "Fruits", price: "$3", stocked: false, name: "Grapes" },
+  { category: "Fruits", price: "$1", stocked: true, name: "Orange" },
+  { category: "Fruits", price: "$2", stocked: false, name: "Peach" },
+  { category: "Fruits", price: "$1", stocked: true, name: "Kiwi" },
+  { category: "Fruits", price: "$2", stocked: true, name: "Pear" },
+  { category: "Fruits", price: "$3", stocked: false, name: "Cherry" },
+  { category: "Fruits", price: "$4", stocked: true, name: "Avocado" },
+  { category: "Vegetables", price: "$2", stocked: true, name: "Spinach" },
+  { category: "Vegetables", price: "$4", stocked: false, name: "Pumpkin" },
+  { category: "Vegetables", price: "$1", stocked: true, name: "Peas" },
+  { category: "Vegetables", price: "$3", stocked: true, name: "Broccoli" },
+  { category: "Vegetables", price: "$2", stocked: false, name: "Carrot" },
+  { category: "Vegetables", price: "$3", stocked: true, name: "Lettuce" },
+  { category: "Vegetables", price: "$2", stocked: true, name: "Bell Pepper" },
+  { category: "Vegetables", price: "$3", stocked: false, name: "Cauliflower" },
+  { category: "Vegetables", price: "$4", stocked: true, name: "Kale" },
+  { category: "Vegetables", price: "$3", stocked: true, name: "Tomato" },
+];
+
+export default itemsAll;
