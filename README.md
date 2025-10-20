@@ -1,8 +1,19 @@
-# React + Vite
+# Sort List React 🧮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that allows users to sort a list of items dynamically. Built with Vite for fast development and deployment.
 
-Currently, two official plugins are available:
+[View on GitHub Pages](https://alexmlh.github.io/sort-list-react)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+
+- ⚛️ React 18
+- ⚡ Vite
+- 🗂️ GitHub Pages for deployment
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/alexmlh/sort-list-react.git
+cd sort-list-react
+npm install
+npm run dev
